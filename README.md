@@ -1,5 +1,6 @@
 # ai-sales
 AI Enabled Real Time AI Sales Call Assistant for Enhanced Conversation Strategies
+
 It is a GenAI-based full-stack application built with React, FastAPI, and Python. It uses Deepgram ,LiveKit SDK, Google Gemini, and Google Cloud APIs for live call handling, transcription, analysis, summarization, objection handling, and recommendations, with MongoDB for transcript, call history, users, admin,CRM data, auth,analytics, and reporting
 The AI Sales Call Assistant is a full-stack Generative AI application designed to enhance sales conversations through real-time transcription, intelligent analysis, and actionable post-call insights. The system supports sales teams during and after calls by converting live audio into text, analyzing conversations using Large Language Models (LLMs), and generating summaries, sentiment insights, recommendations, and performance feedback.
 
